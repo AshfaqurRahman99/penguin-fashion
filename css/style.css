@@ -1,0 +1,42 @@
+.heading{
+    font-size: 70px;
+}
+nav img{
+    height: 42.2px;
+}
+.btn-design{
+    color: white;
+    background-color: rgba(164, 188, 70, 1);
+    padding: 19px 45px;
+    border-radius: 15px;
+}
+header{
+    background-color: rgba(255, 251, 240, 1);
+}
+.highliter{
+    color: rgba(250, 190, 76, 1)
+}
+.penguin-card{
+    border: 0px;
+    border-radius: 17px;
+}
+
+.penguin-card-footer{
+    background-color: white;
+    border-top: 0px;
+}
+.price{
+    font-weight: 700;
+    color: rgba(250, 190, 76, 1);
+}
+.image-box{
+    background-color: lightgray;
+    height: 400px;
+    margin: 19px;
+    border-radius: 15px;
+}
+.penguin-card img{
+  margin: 30px;
+  width: 70%;
+  height: 86%;
+}
