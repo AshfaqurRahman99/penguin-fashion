@@ -76,3 +76,25 @@ header{
 .background{
     background-color: honeydew;
 }
+@media (max-width:768px){
+    .responsive-part{
+        display: flex;
+        flex-direction: column-reverse;   
+    }
+    .shopping-image{
+        padding: 60px 30px;
+    }
+    .product-headline{
+        text-align: center;
+    }
+    .responsive-item{
+        text-align: center;
+    }
+    .responsive-item h5{
+        font-size: 28px;
+    }
+    .price{
+        padding-left: 20px;
+        font-size: 40px;
+    }
+}
