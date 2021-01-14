@@ -1,8 +1,15 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgba(54, 57, 88, 1);
+}
 .heading{
+    font-family: 'Roboto', cursive;
     font-size: 70px;
+    font-weight: 500;
+    line-height: 80px;
 }
 nav img{
-    height: 42.2px;
+    height: 40.2px;
 }
 .btn-design{
     color: white;
@@ -55,4 +62,7 @@ header{
 }
 .card-image{
     width: 120px;
+}
+.product-name{
+    font-weight: 700;
 }
