@@ -18,12 +18,14 @@ header{
 }
 .penguin-card{
     border: 0px;
-    border-radius: 17px;
+    border-radius: 17px 17px 17px 17px;
 }
 
 .penguin-card-footer{
     background-color: white;
     border-top: 0px;
+    border-radius: 17px !important;
+   
 }
 .price{
     font-weight: 700;
@@ -39,4 +41,18 @@ header{
   margin: 30px;
   width: 70%;
   height: 86%;
+}
+.about-us img{
+    width: 100%;
+}
+.card-image img{
+    width: 100px;
+    height: 100px;
+}
+.contact-card{
+    border: 0px;
+    border-radius: 15px;
+}
+.card-image{
+    width: 120px;
 }
