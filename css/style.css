@@ -3,10 +3,11 @@ body{
     color: rgba(54, 57, 88, 1);
 }
 .heading{
-    font-family: 'Roboto', cursive;
-    font-size: 70px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
     font-weight: 500;
     line-height: 80px;
+   
 }
 nav img{
     height: 40.2px;
@@ -64,5 +65,14 @@ header{
     width: 120px;
 }
 .product-name{
+    font-weight: 400;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+}
+.card-head{
     font-weight: 700;
+    font-size: 25px;
+}
+.background{
+    background-color: honeydew;
 }
